@@ -1,0 +1,873 @@
+/* ****************
+Ratina
+************** */
+
+@media (min-width: 1921px) {
+    .usersay-area iframe {
+        height: 500px;
+    }
+    .inputs input {
+        width: 44%;
+    }
+    .cards {
+        width: 15.6%;
+    }
+    .details-card .cards {
+        width: 10%;
+    }
+}
+
+@media (max-width: 1920px) {
+    .cards {
+        width: 19%;
+    }
+    .details-card .cards {
+        width: 15.6%;
+    }
+}
+
+@media (max-width: 1680px) {
+    .cards {
+        width: 32%;
+    }
+    .details-card .cards {
+        width: 24%;
+    }
+    .usersay-area iframe {
+        height: 400px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .subscribe form {
+        width: 600px;
+    }
+    .cards {
+        width: 32%;
+    }
+    .details-card .cards {
+        width: 24%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .subscribe form {
+        width: 400px;
+    }
+    .headline-title h1 {
+        font-size: 54px;
+    }
+    .title h2 {
+        font-size: 34px;
+    }
+    .media h4 {
+        font-size: 20px;
+    }
+    .media img {
+        height: 60px;
+    }
+    .media p {
+        font-size: 16px;
+    }
+    .usersay-area .owl-prev i {
+        height: 40px;
+        width: 40px;
+        font-size: 32px;
+        right: 55px;
+    }
+    .usersay-area .owl-next i {
+        height: 40px;
+        width: 40px;
+        font-size: 32px;
+    }
+    .testdrives-area .owl-prev i {
+        height: 40px;
+        width: 40px;
+        font-size: 32px;
+        right: 55px;
+    }
+    .testdrives-area .owl-next i {
+        height: 40px;
+        width: 40px;
+        font-size: 32px;
+    }
+    .blockquote p {
+        font-size: 20px;
+    }
+    .blockquote-footer {
+        font-size: 20px;
+    }
+    .cards .card-result .card-title {
+        font-size: 16px !important;
+    }
+    .card-title {
+        font-size: 22px !important;
+        min-height: 100px;
+    }
+    .margin-top {
+        margin-top: 56px;
+    }
+    .headline-area {
+        height: 550px;
+    }
+    .headlines {
+        height: 400px;
+    }
+    .topcitis li a {
+        font-size: 16px;
+    }
+    .contact-btn a {
+        font-size: 13px;
+        font-weight: 500;
+        width: 100%;
+    }
+    .price h2 {
+        font-size: 20px;
+    }
+    .price p {
+        font-size: 12px;
+    }
+    .offer {
+        font-size: 14px;
+        line-height: 1.5;
+        color: #ffffff;
+        padding: 10px 2px;
+    }
+    .save-filler a {
+        font-size: 16px;
+        white-space: nowrap;
+    }
+    .cartitle-area .card-title {
+        font-size: 22px;
+        color: #323348;
+    }
+    .trade {
+        padding: 15px 5px;
+    }
+    .faq-area h4 {
+        font-size: 24px;
+    }
+    .faq-content .accordion-button {
+        padding: 15px;
+        font-size: 18px;
+    }
+    .cards {
+        width: 48%;
+        margin: 0 1%;
+    }
+    .details-card .cards {
+        width: 32%;
+    }
+    .header-title h1 {
+        font-size: 18px;
+    }
+    .header-title p {
+        font-size: 14px;
+    }
+    .header-btns li a {
+        font-size: 14px;
+        line-height: 1.5;
+        padding: 5px 12px;
+        margin-left: 5px;
+        margin-left: 10px;
+    }
+    .header-btns li a.makeoffer {
+        font-weight: 500;
+    }
+    .details-slider {
+        width: 100%;
+    }
+    .recommended-slider {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .guesswork-area {
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+    .account-nav {
+        width: 100%;
+    }
+    .populer-markers .items {
+        height: 160px;
+        padding: 15px;
+    }
+}
+
+@media (max-width: 1199px) {
+    #main-menu li {
+        padding: 14px 0;
+        margin-left: 0;
+    }
+    .sm-clean a .sub-arrow {
+        background: transparent;
+    }
+    .sm-clean a {
+        margin-top: 0;
+    }
+    .sm-clean ul {
+        margin-top: 10px;
+    }
+    a.signup {
+        display: inline-block;
+        align-items: center;
+    }
+    .sm-clean a .sub-arrow {
+        right: 0px;
+    }
+    .navbar-collapse {
+        overflow-x: auto;
+        overflow-y: scroll;
+    }
+    .sm-clean li {
+        border-top: 1px solid rgba(255, 255, 255, 0.5);
+    }
+}
+
+
+/* ****************
+Desktop
+************** */
+
+@media (max-width: 1024px) {
+    /*    .details-slider .slider-for .slick-slide div {
+        height: auto;
+    }*/
+}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 991px) {
+    .usersay-area iframe {
+        border-radius: 30px;
+    }
+    .margin-top {
+        margin-top: 56px;
+    }
+    .headline-title h1 {
+        font-size: 44px;
+    }
+    .search-area {
+        margin-top: -100px;
+    }
+    .subscribe form {
+        width: 300px;
+    }
+    .btn-subscribe {
+        font-size: 16px;
+        line-height: 1.5;
+        color: #ffffff;
+        padding: 12px 12px;
+        top: 6px;
+        right: 6px;
+        z-index: 99;
+    }
+    .subscribe h3 {
+        font-size: 20px;
+    }
+    .guesswork-img img {
+        margin: 0 auto;
+        display: block;
+    }
+    .cartitle-area .price h2 span {
+        display: block;
+    }
+    .guesswork-img {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .cards {
+        width: 32%;
+        margin: 0 0.5%;
+    }
+    .details-card .cards {
+        width: 32%;
+    }
+    .filter-btn {
+        display: inline-block !important;
+    }
+    .search-category {
+        position: absolute;
+        left: -330px;
+        z-index: 9;
+        background: #fff;
+        transition: all 0.4s ease;
+        width: 300px;
+        -webkit-box-shadow: 0px 10px 20px rgb(0 0 0 / 10%);
+        box-shadow: 0px 10px 20px rgb(0 0 0 / 10%);
+    }
+    .shows {
+        left: -10px;
+        transition: all 0.4s ease;
+        padding: 10px;
+    }
+    .closefilter {
+        display: block;
+        position: absolute;
+        right: 3px;
+        top: 3px;
+        padding: 5px;
+        height: 30px;
+    }
+    .search-fillter {
+        margin: 25px 0;
+    }
+    .left-sidebar {
+        width: 0;
+        position: absolute !important;
+        z-index: 9;
+        padding: 0;
+    }
+    .StickySidebar {
+        position: absolute !important;
+    }
+    .result-bg {
+        width: 100%;
+    }
+    .sortby .form-select {
+        width: auto;
+    }
+    .sort-save {
+        display: flex;
+    }
+    .search-header .search-bar {
+        min-width: 430px;
+    }
+    .resetbtn {
+        position: inherit;
+    }
+    .notfound h1 {
+        font-size: 30px;
+    }
+    .wishbtn {
+        position: inherit;
+        right: 0;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.5;
+        padding: 7px 12px;
+        margin-top: 7px;
+    }
+    .wishbtn img {
+        margin-right: 10px;
+        height: 18px;
+    }
+    /* account-are */
+    .account-area {
+        padding: 30px 0;
+        min-height: auto;
+    }
+    .account-nav {
+        width: 100%;
+        height: auto;
+        position: inherit;
+        padding: 15px;
+    }
+    .account-details {
+        padding: 15px 0;
+    }
+    .account-nav li a {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    /* account-are */
+    .populer-markers .items {
+        height: 100px;
+    }
+}
+
+@media (max-width: 768px) {}
+
+
+/* **************** 
+Tab 
+************** */
+
+@media (max-width: 767px) {
+    .headline-area {
+        height: 450px;
+    }
+    .search-bar {
+        padding: 10px 0;
+    }
+    .searchicon {
+        position: absolute;
+        top: 22px;
+        left: 15px;
+    }
+    .search-tabs .nav-tabs {
+        border-bottom: 1px solid transparent;
+        margin-bottom: 10px;
+    }
+    .search-option .form-select {
+        margin-bottom: 15px;
+        padding: 8px 15px;
+    }
+    .search-option .form-control {
+        margin-bottom: 15px;
+        padding: 8px 15px;
+    }
+    .search-option .cus-btns {
+        padding: 8px 10px;
+        font-size: 16px;
+    }
+    .search-tabs {
+        padding: 15px;
+    }
+    .title h2 {
+        font-size: 30px;
+    }
+    .guesswork-con .title h2 {
+        font-size: 30px;
+    }
+    .topcitis {
+        margin-bottom: 15px;
+    }
+    .card-title {
+        font-size: 22px;
+        min-height: auto;
+    }
+    .subscribe-area {
+        height: auto;
+        padding: 50px 0;
+    }
+    .subscribe-con {
+        display: flex;
+        align-items: center;
+        height: auto;
+    }
+    #main-menu li {
+        padding: 14px 0;
+        margin-left: 0;
+    }
+    .sm-clean a {
+        margin-top: 0;
+    }
+    .sm-clean ul {
+        margin-top: 10px;
+    }
+    a.signup {
+        display: inline-block;
+        align-items: center;
+    }
+    .sm-clean a .sub-arrow {
+        right: 0px;
+    }
+    .search-results {
+        padding: 10px;
+    }
+    .title-breadcrumb h1 {
+        font-size: 20px;
+    }
+    .accordion-body {
+        padding: 0 0px 10px 10px;
+    }
+    .search-category .accordion {
+        margin: 0;
+    }
+    .accordion-button {
+        padding: 1rem 10px;
+        font-size: 16px;
+    }
+    .condition {
+        width: 94%;
+        margin: 20px 3%;
+    }
+    .fillter-lable {
+        padding: 10px;
+    }
+    .search-header .search-bar {
+        padding: 10px 0;
+        border-top: 1px solid #eeeeee;
+    }
+    .usersay-area iframe {
+        height: 300px;
+    }
+    .copyright p {
+        text-align: center;
+    }
+    .full-slider .owl-prev i {
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+        background: #323348;
+        height: 40px;
+        width: 30px;
+        line-height: 38px;
+        text-align: center;
+        color: #fff;
+        padding-right: 5px;
+        font-size: 28px;
+    }
+    .full-slider .owl-next i {
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        background: #323348;
+        height: 40px;
+        width: 30px;
+        line-height: 38px;
+        text-align: center;
+        color: #fff;
+        padding-left: 5px;
+        font-size: 28px;
+    }
+    .desktop-view {
+        display: none;
+    }
+    .mobile-view {
+        display: block;
+    }
+    .location-icon {
+        display: block;
+    }
+    br {
+        display: none;
+    }
+    .social {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .cartitle-area .card.card-result {
+        padding: 0px;
+    }
+    .headline-title img {
+        height: 30px;
+    }
+    .usersay-area .owl-prev i {
+        bottom: 10px;
+        left: 15px;
+    }
+    .usersay-area .owl-next i {
+        bottom: 10px;
+        right: 15px;
+    }
+    .faq-content .accordion-button {
+        padding: 10px;
+        font-size: 16px;
+    }
+    .sticky {
+        position: inherit !important;
+    }
+    a.offer2 {
+        font-size: 14px;
+        padding: 6px 5px;
+    }
+    .buyonline-modal {
+        width: 320px;
+        right: -400px;
+    }
+    .buyonline-head {
+        right: -380px;
+        width: 300px;
+    }
+    .btns {
+        right: -380px;
+        width: 300px;
+        z-index: 99;
+    }
+    .ppp2 {
+        top: 56px;
+        right: -380px;
+        width: 300px;
+    }
+    .carprice img {
+        display: none;
+    }
+    .carprice .ms-3 {
+        margin-left: 0 !important;
+    }
+    .steps h3 {
+        font-size: 14px;
+    }
+    .carprice h5 {
+        font-size: 16px;
+    }
+    .carprice p {
+        font-size: 12px !important;
+    }
+    #msform .previous {
+        border-radius: 6px;
+        font-size: 14px;
+        padding: 5px 20px;
+        margin-right: 10px;
+    }
+    #msform .next {
+        border-radius: 6px;
+        font-size: 14px;
+        padding: 5px 20px;
+    }
+    .midlebox .price h2 {
+        font-size: 24px;
+    }
+    #msform .skip .next {
+        font-size: 16px;
+    }
+    .overly-form.buyon h3 {
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .midlebox .price p {
+        font-size: 14px;
+    }
+    .vehicle-condition ul {
+        display: block;
+    }
+    .vehicle-condition li {
+        display: block;
+        width: 100%;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+    .vehicle-condition li a {
+        width: 100%;
+        border-radius: 6px;
+    }
+    .overly-form.buyon h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .finance-box ul {
+        display: block;
+    }
+    .finance-box li {
+        display: block;
+        width: 100%;
+        margin-right: 0;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+    .lease {
+        padding: 5px 15px;
+    }
+    .finance-box li h5 {
+        font-size: 20px;
+    }
+    .price2 h4 {
+        font-size: 24px;
+    }
+    .price2 p {
+        font-size: 14px;
+    }
+    .rebates.finance-box li h2 {
+        font-size: 20px;
+        text-align: left;
+        margin-top: 10px;
+    }
+    .skip {
+        top: 70px;
+    }
+    .lease-table table td {
+        font-size: 14px;
+    }
+    .lease-table h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .lease-accordion .accordion-button {
+        padding: 10px 0;
+        font-size: 20px;
+    }
+    .thank-you img {
+        margin-bottom: 50px;
+    }
+    .thank-you h2 {
+        font-size: 40px;
+    }
+    .vehicle-condition li a h4 {
+        font-size: 18px;
+    }
+    a.signup2 {
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    a.signup {
+        display: block;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .sort-save {
+        display: flex;
+    }
+    .save-filler a {
+        padding: 10px;
+    }
+    .sortby .form-select {
+        margin-right: 4px;
+    }
+    .details-slider .prev i,
+    .details-slider .next i {
+        display: none;
+    }
+    .headlines {
+        height: 200px;
+    }
+    .cards {
+        width: 48%;
+        margin: 0 1%;
+    }
+    .details-card .cards {
+        width: 48%;
+    }
+    .serhedwth {
+        width: 100%;
+    }
+    .serbarwth {
+        width: 100%;
+    }
+    .search-header .search-bar {
+        min-width: 100%;
+    }
+    .header-btns {
+        display: block;
+        margin-top: 10px;
+    }
+    .header-btns li {
+        width: 100%;
+    }
+    .header-title h1 {
+        font-size: 14px;
+    }
+    .header-title p {
+        font-size: 12px;
+    }
+    .header-btns li a {
+        margin-left: 0;
+        margin: 0 3px;
+    }
+    .login-content {
+        padding: 30px 15px;
+    }
+    .call h2 {
+        font-size: 30px;
+    }
+    .notfound h1 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 575px) {
+    .headline-title h1 {
+        font-size: 36px;
+    }
+    .search-area {
+        margin-top: 0;
+        padding-top: 30px;
+    }
+    .btns li a {
+        margin: 10px 0;
+        width: 100%;
+    }
+    .usersay-area iframe {
+        height: 200px;
+    }
+    .usersay-area {
+        padding: 30px 0;
+    }
+    .testdrives-area {
+        padding: 30px 0;
+    }
+    .populer-markers {
+        padding: 30px 0;
+    }
+    .top-cities {
+        padding: 30px 0;
+    }
+    .headline-area {
+        height: 350px;
+        display: block;
+    }
+    .headline-title {
+        margin-top: 15px;
+    }
+    .testdrives-area .owl-prev i {
+        left: 75%;
+        top: 102%;
+    }
+    .testdrives-area .owl-next i {
+        right: 0;
+        top: 102%;
+    }
+    .headlines {
+        height: 170px;
+    }
+    .sort-save {
+        display: block;
+    }
+    .sortby .form-select {
+        width: 100%;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .save-filler a {
+        font-size: 14px;
+        white-space: nowrap;
+        width: 100%;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .save-filler a img {
+        height: 13px;
+        margin-right: 6px;
+    }
+    .save-filler {
+        padding: 0 0;
+    }
+    .cards {
+        width: 96%;
+        margin: 0 2%;
+    }
+    .details-card .cards {
+        width: 96%;
+    }
+    .search-tabs .nav-link {
+        padding: 5px 0;
+        font-size: 14px;
+        margin-right: 10px;
+    }
+    /* welcomeback-area */
+    .welcomeback-area {
+        left: 5px;
+        width: 300px;
+    }
+    .welcomeback-title h2 {
+        font-size: 20px;
+    }
+    .welcomeback-title p {
+        font-size: 14px;
+    }
+    .welcomeback h2 {
+        font-size: 16px;
+    }
+    .welcomePrice p {
+        font-size: 14px;
+    }
+    .backbtn a {
+        font-size: 14px;
+    }
+    .conavai a {
+        font-size: 14px;
+    }
+    /* welcomeback-area */
+}
+
+@media (max-width: 480px) {}
+
+
+/* **************** 
+Mobile 
+************** */
+
+@media (max-width: 375px) {
+    .testdrives-area .owl-prev i {
+        left: 66%;
+        top: 102%;
+    }
+}
+
+@media (max-width: 360px) {}
+
+@media (max-width: 320px) {}
